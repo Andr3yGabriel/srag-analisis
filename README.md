@@ -3,6 +3,7 @@
 ## 👥 Autores
 - **Andrey Gabriel Ferreira Gonçalves**
 - **Julia Peghini Vilela Borges**
+-**Jaqueline Nobre da Silva**
 
 ## 🎯 Objetivo
 Este projeto realiza a consolidação e análise diagnóstica de dados de Síndrome Respiratória Aguda Grave (SRAG) no Brasil, abrangendo o período de **2019 a 2025**.
