@@ -5,6 +5,12 @@
 - **Julia Peghini Vilela Borges**
 - **Jaqueline Nobre da Silva**
 
+## Vídeo de Apreseentação
+
+O vídeo gravado para apresentar os resultados encontrados durante a pesquisa se encontra no link do Google Drive abaixo:
+
+https://drive.google.com/file/d/1Bzasmp0SL-HskVjKe0eCN4Q8okll3Y5t/view
+
 ## 📂 Estrutura de Arquivos
 O notebook espera que os arquivos CSV (`INFLUD19-*.csv`, etc.) estejam localizados em uma pasta `./dados` na raiz do projeto, conforme estrutura abaixo:
 
